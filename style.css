@@ -32,6 +32,9 @@ a {
   margin: auto;
   padding: 1rem;
 }
+.container img{
+  border-radius: 15%;
+}
 
 /* Header */
 header {
