@@ -42,7 +42,15 @@ header {
   border-bottom: 1px solid #ddd;
   padding: 10px 0;
 }
+.content h3 {
+  font-size: large;
+  font-family:'Courier New', Courier, monospace;
+  color: #333;
+}
 
+.content .para{
+  list-style: none;
+}
 .logo {
   display: flex;
   align-items: center;
